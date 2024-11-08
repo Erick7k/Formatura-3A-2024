@@ -1,0 +1,21 @@
+*{   
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+.cabecalho{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+   background-color: rgba(1, 30, 248, 0.487);
+   color: rgb(255, 255, 255);
+   padding: 10px 0;
+}
